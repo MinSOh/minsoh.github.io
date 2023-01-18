@@ -9,7 +9,11 @@
         "author": "Kim, D. and Oh, M. (2022)",
         "title":  "Dynamic Realized Minimum Variance Portfolio models"
     },
-    
+    {
+        "author": "Kim, D., Oh, M., Song, X., and Wang, Y. (2021)",
+        "title":  "Multivariate Overnight GARCH-Ito Model with Applications in Large Volatility Matrix Estimation and Prediction",
+        "link": "https://arxiv.org/abs/2204.06906"
+    },
     {
         "author": "Kim, D. and Oh, M. (2022)",
         "title":  "Effect of the U.S.-China Trade War on Stock Markets: A Financial Contagion Perspective",
