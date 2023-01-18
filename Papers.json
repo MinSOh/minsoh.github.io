@@ -1,0 +1,31 @@
+{
+"manuscript": [
+    {
+        "author": "Oh, M., Kim, D.,and Wang, Y. (2023)",
+        "title":  "Robust Realized Integrated Beta Estimator with Application to Dynamic Analysis of Integrated Beta",
+        "link": "https://arxiv.org/abs/2301.06742"
+    },
+    {
+        "author": "Kim, D. and Oh, M. (2022)",
+        "title":  "Dynamic Realized Minimum Variance Portfolio models"
+    },
+    {
+        "author": "Kim, D., Oh, M., Song, X., and Wang, Y. (2021)",
+        "title":  "Multivariate Overnight GARCH-Ito Model with Applications in Large Volatility Matrix Estimation and Prediction",
+        "link": "https://arxiv.org/abs/2204.06906"
+    },
+    {
+        "author": "Kim, D. and Oh, M. (2022)",
+        "title":  "Effect of the U.S.-China Trade War on Stock Markets: A Financial Contagion Perspective",
+        "link": "https://arxiv.org/abs/2111.09655"
+    }
+],
+"published":[
+    {
+        "author": "Kim, D., Oh, M., and Wang, Y. (2022)",
+        "title": "Conditional Quantile Analysis for Realized GARCH Models",
+        "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/jtsa.12633",
+        "journal": "Journal of Time Series Analysis, 43, 640-665"
+    }
+]
+}
