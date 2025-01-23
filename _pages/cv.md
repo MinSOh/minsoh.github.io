@@ -12,7 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Finance, KAIST, 2025
+  * Advisor: Professor Donggyu Kim, University of California, Riverside
 * B.S. in Mathematical Science, KAIST, 2020
+  * Double major in Computer Science
+  * Minor in Economics
+  * Summa Cum Laude
+
   
 Publications
 ======
