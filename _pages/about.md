@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi!
-I am a Ph.D candidate in Finance at KAIST.
-My research interets are Financial econometrics, risk management, and high-dimensional analysis.
+
+I am a Ph.D. candidate in Finance at KAIST.
+My research interests are
+- Financial econometrics
+- Risk management
+- High-dimensional analysis
 
 A data-driven personal website
 ======
