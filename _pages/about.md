@@ -24,20 +24,20 @@ Education
 
 Published/Accepted Papers
 ======
-- __Oh, M.__, Kim, D., and Wang, Y. (2024+) Robust Realized Integrated Beta Estimator with Application to Dynamic Analysis of Integrated Beta. To appear in __Journal of Econometrics__.
+- __Oh, M.__, Kim, D., and Wang, Y. (2024+) Robust Realized Integrated Beta Estimator with Application to Dynamic Analysis of Integrated Beta. To appear in ___Journal of Econometrics___.
 
 
-- Kim, D. and __Oh, M.__  (2024) Dynamic Realized Minimum Variance Portfolio Models. __Journal of Business \& Economic Statistics__, 42, 1238-1249.
+- Kim, D. and __Oh, M.__  (2024) Dynamic Realized Minimum Variance Portfolio Models. ___Journal of Business \& Economic Statistics___, 42, 1238-1249.
 
-- Kim, D., __Oh, M.__, Song, X., and Wang, Y. (2024)  Factor Overnight GARCH-It\^{o} Models. __Journal of Financial Econometrics__, 22, 1209-1235.
-
-
-
-- __Oh, M.__ and Kim, D. (2024).  Effect of the U.S.--China Trade War on Stock Markets: A Financial Contagion Perspective.   __Journal of Financial Econometrics__, 22, 954-1005.
+- Kim, D., __Oh, M.__, Song, X., and Wang, Y. (2024)  Factor Overnight GARCH-It\^{o} Models. ___Journal of Financial Econometrics___, 22, 1209-1235.
 
 
 
--  Kim, D., __Oh, M.__, and Wang, Y. (2022). Conditional Quantile Analysis for Realized GARCH Models. __Journal of Time Series Analysis__, 43, 640-665. 
+- __Oh, M.__ and Kim, D. (2024).  Effect of the U.S.--China Trade War on Stock Markets: A Financial Contagion Perspective.   ___Journal of Financial Econometrics___, 22, 954-1005.
+
+
+
+-  Kim, D., __Oh, M.__, and Wang, Y. (2022). Conditional Quantile Analysis for Realized GARCH Models. ___Journal of Time Series Analysis___, 43, 640-665. 
 
 Site-wide configuration
 ------
