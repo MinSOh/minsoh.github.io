@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+Hi!
 I am a Ph.D. candidate in Finance at KAIST.
 My research interests are
 - Financial econometrics
@@ -20,24 +20,27 @@ Education
 - B.S. in Mathematical Sciences, KAIST, 2016--2020
   - Double major in Computer Science
   - Minor in Economics
+  - Summa Cum Laude
 
 
 Published/Accepted Papers
 ======
 - __Oh, M.__, Kim, D., and Wang, Y. (2024+) Robust Realized Integrated Beta Estimator with Application to Dynamic Analysis of Integrated Beta. To appear in ___Journal of Econometrics___.
 
-
 - Kim, D. and __Oh, M.__  (2024) Dynamic Realized Minimum Variance Portfolio Models. ___Journal of Business \& Economic Statistics___, 42, 1238-1249.
 
 - Kim, D., __Oh, M.__, Song, X., and Wang, Y. (2024)  Factor Overnight GARCH-It\^{o} Models. ___Journal of Financial Econometrics___, 22, 1209-1235.
 
-
-
 - __Oh, M.__ and Kim, D. (2024).  Effect of the U.S.--China Trade War on Stock Markets: A Financial Contagion Perspective.   ___Journal of Financial Econometrics___, 22, 954-1005.
 
-
-
 -  Kim, D., __Oh, M.__, and Wang, Y. (2022). Conditional Quantile Analysis for Realized GARCH Models. ___Journal of Time Series Analysis___, 43, 640-665. 
+
+Working Papers
+=====
+- __Oh, M.__ and Kim, D.  Property of Inverse Covariance Matrix-based Financial Adjacency Matrix for Detecting Local Groups. Submitted to Journal of Econometrics.
+
+- Kim, D., __Oh, M.__, and Shin, M. High-Dimensional Time-Varying Coefficient Estimation. Submitted to Econometric Reviews.
+
 
 Site-wide configuration
 ------
