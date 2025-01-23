@@ -25,7 +25,7 @@ Education
 
 Published/Accepted Papers
 ======
-- __Oh, M.__, Kim, D., and Wang, Y. (2024+) Robust Realized Integrated Beta Estimator with Application to Dynamic Analysis of Integrated Beta. To appear in ___Journal of Econometrics___.
+- __Oh, M.__, Kim, D., and Wang, Y. (2024+) [Robust Realized Integrated Beta Estimator with Application to Dynamic Analysis of Integrated Beta](https://www.sciencedirect.com/science/article/pii/S0304407624001568). To appear in ___Journal of Econometrics___.
 
 - Kim, D. and __Oh, M.__  (2024) Dynamic Realized Minimum Variance Portfolio Models. ___Journal of Business & Economic Statistics___, 42, 1238-1249.
 
