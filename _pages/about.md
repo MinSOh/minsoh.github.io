@@ -47,3 +47,11 @@ Honors/Awards
 - 2024 KAIST Graduate Student Outstanding Paper Award, 10/2024
 - Travel Grant, SoFiE conference, 06/2023
 - Korea Presidential Science Scholarship, Korea Student Aid Foundation, 03/2016--02/2020
+
+
+Conference Presentations
+======
+- The 7th International Conference on Econometrics and Statistics (EcoSta), Tokyo, Japan, July 2024
+- The 6th International Conference on Econometrics and Statistics (EcoSta), Tokyo, Japan, August 2023
+- The Society for Financial Econometrics (SoFiE) Conference, Seoul, June 2023
+- The 5th International Conference on Econometrics and Statistics (EcoSta), Virtual, June 2022
