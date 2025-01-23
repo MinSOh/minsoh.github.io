@@ -22,14 +22,22 @@ Education
   - Minor in Economics
 
 
-Getting started
+Published/Accepted Papers
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- __Oh, M.__, Kim, D., and Wang, Y. (2024+) Robust Realized Integrated Beta Estimator with Application to Dynamic Analysis of Integrated Beta. To appear in __Journal of Econometrics__.
+
+
+- Kim, D. and __Oh, M.__  (2024) Dynamic Realized Minimum Variance Portfolio Models. __Journal of Business \& Economic Statistics__, 42, 1238-1249.
+
+- Kim, D., __Oh, M.__, Song, X., and Wang, Y. (2024)  Factor Overnight GARCH-It\^{o} Models. __Journal of Financial Econometrics__, 22, 1209-1235.
+
+
+
+- __Oh, M.__ and Kim, D. (2024).  Effect of the U.S.--China Trade War on Stock Markets: A Financial Contagion Perspective.   __Journal of Financial Econometrics__, 22, 954-1005.
+
+
+
+-  Kim, D., __Oh, M.__, and Wang, Y. (2022). Conditional Quantile Analysis for Realized GARCH Models. __Journal of Time Series Analysis__, 43, 640-665. 
 
 Site-wide configuration
 ------
