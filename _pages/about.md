@@ -8,11 +8,15 @@ redirect_from:
 ---
 
 Hi!
-I am a Ph.D. candidate in Finance at KAIST.
+I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.
 My research interests are
 - Financial econometrics
 - Risk management
 - High-dimensional analysis
+
+Position
+======
+- Postdoctoral Researcher, Institute of Artificial Intelligence, POSTECH, 2025--
 
 Education
 ======
