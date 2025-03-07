@@ -41,9 +41,9 @@ Published/Accepted Papers
 
 Working Papers
 =====
-- __Oh, M.__ and Kim, D.  [Property of Inverse Covariance Matrix-based Financial Adjacency Matrix for Detecting Local Groups](https://arxiv.org/abs/2412.05664).
+- __Oh, M.__ and Kim, D.  [Property of Inverse Covariance Matrix-based Financial Adjacency Matrix for Detecting Local Groups](https://arxiv.org/abs/2412.05664). Submitted.
 
-- Kim, D., __Oh, M.__, and Shin, M. [High-Dimensional Time-Varying Coefficient Estimation](https://arxiv.org/abs/2202.08419).
+- Kim, D., __Oh, M.__, and Shin, M. [High-Dimensional Time-Varying Coefficient Estimation](https://arxiv.org/abs/2202.08419). Submitted.
 
 
 Honors/Awards
