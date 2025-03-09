@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi!
-I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.
+I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence (PIAI).
 My research interests are
 - Financial econometrics
 - Risk management
