@@ -45,6 +45,7 @@ Working Papers
 
 - Kim, D., __Oh, M.__, and Shin, M. [High-Dimensional Time-Varying Coefficient Estimation](https://arxiv.org/abs/2202.08419). Submitted.
 
+- Jung, K., Kim, D., and __Oh, M.__ Matrix-based Factor Analysis on the Prediction of Claims Probability. Accepted for presentation at ___American Risk and Insurance Association, 2025___.
 
 Honors/Awards
 ======
