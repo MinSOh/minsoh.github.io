@@ -45,7 +45,7 @@ Working Papers
 
 - Kim, D., __Oh, M.__, and Shin, M. [High-Dimensional Time-Varying Coefficient Estimation](https://arxiv.org/abs/2202.08419). Submitted.
 
-- Jung, K., Kim, D., and __Oh, M.__ Matrix-based Factor Analysis on the Prediction of Claims Probability. Accepted for presentation at ___American Risk and Insurance Association, 2025___.
+- Jung, K., Kim, D., and __Oh, M.__ Matrix-based Factor Analysis on the Prediction of Claims Probability. Presentation at ___American Risk and Insurance Association, 2025___.
 
 Honors/Awards
 ======
@@ -56,6 +56,7 @@ Honors/Awards
 
 Conference Presentations
 ======
+- The World Risk and Insurance Economics Congress (WRIEC), Calgary, Canada, August 2025
 - The 7th International Conference on Econometrics and Statistics (EcoSta), Tokyo, Japan, July 2024
 - The 6th International Conference on Econometrics and Statistics (EcoSta), Tokyo, Japan, August 2023
 - The Society for Financial Econometrics (SoFiE) Conference, Seoul, June 2023
