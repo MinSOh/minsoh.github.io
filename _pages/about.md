@@ -11,6 +11,7 @@ Hi!
 I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence (PIAI).
 My research interests are
 - Financial econometrics
+- Time series analysis
 - Risk management
 - High-dimensional analysis
 
