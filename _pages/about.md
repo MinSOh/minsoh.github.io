@@ -58,7 +58,7 @@ Honors/Awards
 Conference Presentations
 ======
 - The World Risk and Insurance Economics Congress (WRIEC), Calgary, Canada, August 2025
-- The 7th International Conference on Econometrics and Statistics (EcoSta), Tokyo, Japan, July 2024
+- The 7th International Conference on Econometrics and Statistics (EcoSta), Beijing, China, July 2024 [presented virtually]
 - The 6th International Conference on Econometrics and Statistics (EcoSta), Tokyo, Japan, August 2023
 - The Society for Financial Econometrics (SoFiE) Conference, Seoul, June 2023
 - The 5th International Conference on Econometrics and Statistics (EcoSta), Virtual, June 2022
