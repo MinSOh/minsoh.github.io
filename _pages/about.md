@@ -14,6 +14,7 @@ My research interests are
 - Time series analysis
 - Risk management
 - High-dimensional analysis
+- Machine learning and AI
 
 Position
 ======
@@ -22,6 +23,7 @@ Position
 Education
 ======
 - Ph.D. in Management Engineering, KAIST, 2020--2025
+  - Advisor: Professor [__Donggyu Kim__](https://sites.google.com/site/donggyukim0329), Department of Economics, UC, Riverside, USA
 - B.S. in Mathematical Sciences, KAIST, 2016--2020
   - Double major in Computer Science
   - Minor in Economics
