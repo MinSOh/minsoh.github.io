@@ -32,6 +32,8 @@ Education
 
 Published/Accepted Papers
 ======
+- Kim, D., __Oh, M.__, and Shin, M. (2026+) [High-Dimensional Time-Varying Coefficient Estimation in Diffusion Models](https://arxiv.org/abs/2202.08419). To appear in ___Econometric Reviews___.
+
 - __Oh, M.__, Kim, D., and Wang, Y. (2024+) [Robust Realized Integrated Beta Estimator with Application to Dynamic Analysis of Integrated Beta](https://www.sciencedirect.com/science/article/pii/S0304407624001568). To appear in ___Journal of Econometrics___.
 
 - Kim, D. and __Oh, M.__  (2024) [Dynamic Realized Minimum Variance Portfolio Models](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2308106). ___Journal of Business & Economic Statistics___, 42, 1238-1249.
@@ -46,9 +48,7 @@ Working Papers
 =====
 - __Oh, M.__ and Kim, D.  [Property of Inverse Covariance Matrix-based Financial Adjacency Matrix for Detecting Local Groups](https://arxiv.org/abs/2412.05664). Submitted.
 
-- Kim, D., __Oh, M.__, and Shin, M. [High-Dimensional Time-Varying Coefficient Estimation](https://arxiv.org/abs/2202.08419). Submitted.
-
-- Jung, K., Kim, D., and __Oh, M.__ Matrix-based Factor Analysis on the Prediction of Claims Probability. Presentation at the ___American Risk and Insurance Association (ARIA) Annual Meeting, 2025___.
+- __Oh, M.__, Jeong, H., Kim, D., and Jung, K. Matrix-based Factor Analysis on the Prediction of Claims Probability. Submitted. Presentation at the ___American Risk and Insurance Association (ARIA) Annual Meeting, 2025___.
 
 Honors/Awards
 ======
